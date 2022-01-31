@@ -12,8 +12,8 @@
     "require": {
         "php": "^5.6 || ^7.0",
         "contao/core-bundle": "^4.4",
-        "slashworks/contao-simple-svg-icons-bundle": "^1.0",
-        "slashworks/contao-trackingmanager-bundle": "^4.0"
+        "mediamotionag/contao-simple-svg-icons-bundle": "dev-master",
+        "mediamotionag/contao-trackingmanager-bundle": "dev-master"
     },
     "conflict": {
         "contao/core": "*",
